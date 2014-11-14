@@ -1,0 +1,26 @@
+CONTROLS:
+
+Arrow Keys - Switch direction of gravity
+W - Up
+A - Left
+S - Down
+D - Right
+
+
+In Reflection, you play as a ghost collecting objects containing memories of your previous
+life.
+
+You have two goals in each level: collect the memory object, then make it to the door.
+
+
+The Arrow Keys can be used to switch the direction of gravity.  In each direction, you can
+only land on one color tile.  The color associated with each direction is shown in the bottom
+right corner.
+
+Remember, momentum is conserved when you change the direction of gravity.
+
+WASD is used to move and jump.  When gravity is facing down, W is used to jump.  When
+gravity is facing left, D is used to jump, etc.
+
+
+If you fall outside the boundaries of the screen, you will have to start the room over.
