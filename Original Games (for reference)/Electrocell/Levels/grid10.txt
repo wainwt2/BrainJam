@@ -1,0 +1,7 @@
+R - R R - - - R R
+R V - H V V - - R
+- - H - - - - V -
+- H - - - - V - V
+R - R D - - - - -
+- H - - V H - D -
+R R R - - - - R -
